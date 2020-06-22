@@ -1,6 +1,6 @@
 # PHP-Cadastro-de-Clientes
 
-Teste para medir conhecimentos de promgramação em Backend, proposto pela empresa Hibrido.
+Teste para medir conhecimentos de programação em Backend, proposto pela empresa Hibrido.
 Neste projeto, é feito um sistema para cadastro de Clientes usando o PHP para o desenvolvimento do sistema.
 
 ### Como rodar o Projeto
